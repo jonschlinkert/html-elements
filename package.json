@@ -1,0 +1,38 @@
+{
+  "name": "html-elements",
+  "description": "Array of all standard HTML and HTML5 elements.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/html-elements",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/html-elements.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/html-elements/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/html-elements/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "dependencies": {
+    "elements-of-html": "git://github.com/w3c/elements-of-html",
+    "micromatch": "^1.0.1",
+    "resolve": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}

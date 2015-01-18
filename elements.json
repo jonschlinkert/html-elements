@@ -1,0 +1,1603 @@
+[
+  {
+    "element": "a",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "abbr",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-abbr-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "acronym",
+    "link": "http://www.w3.org/TR/html401/struct/text.html#edef-ACRONYM",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1"
+    ]
+  },
+  {
+    "element": "address",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-address-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "applet",
+    "link": "http://www.w3.org/TR/html401/struct/objects.html#edef-APPLET",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "area",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-map-element.html#the-area-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "article",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-article-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "aside",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-aside-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "audio",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-audio-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "b",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-b-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "base",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-base-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "basefont",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-BASEFONT",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "bdi",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-bdi-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "bdo",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-bdo-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "big",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-BIG",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1"
+    ]
+  },
+  {
+    "element": "blockquote",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-blockquote-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "body",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-body-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "br",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-br-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "button",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-button-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "canvas",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-canvas-element.html#the-canvas-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "caption",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-caption-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "center",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-CENTER",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "cite",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-cite-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "code",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-code-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "col",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-col-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "colgroup",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-colgroup-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "data",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-data-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "datalist",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-datalist-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "dd",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dd-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "del",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-del-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "details",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-details-element",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "dfn",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-dfn-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "dialog",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/commands.html#the-dialog-element",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "dir",
+    "link": "http://www.w3.org/TR/html401/struct/lists.html#edef-DIR",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "div",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-div-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "dl",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dl-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "dt",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-dt-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "em",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-em-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "embed",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-embed-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "fieldset",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-fieldset-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "figcaption",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-figcaption-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "figure",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-figure-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "font",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-FONT",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "footer",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-footer-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "form",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#the-form-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "frame",
+    "link": "http://www.w3.org/TR/html401/present/frames.html#edef-FRAME",
+    "specs": [
+      "4.01"
+    ]
+  },
+  {
+    "element": "frameset",
+    "link": "http://www.w3.org/TR/html401/present/frames.html#edef-FRAMESET",
+    "specs": [
+      "4.01"
+    ]
+  },
+  {
+    "element": "h1",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h1-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "h2",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h2-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "h3",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h3-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "h4",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h4-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "h5",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h5-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "h6",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-h6-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "head",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-head-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "header",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-header-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "hgroup",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/obsolete.html#hgroup",
+    "specs": []
+  },
+  {
+    "element": "hr",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-hr-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "html",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-html-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "i",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-i-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "iframe",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-iframe-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "img",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-img-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-input-element.html#the-input-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"hidden\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#hidden-state-(type=hidden)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"text\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#text-(type=text)-state-and-search-state-(type=search)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"search\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#text-(type=text)-state-and-search-state-(type=search)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"tel\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#telephone-state-(type=tel)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"url\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#url-state-(type=url)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"password\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#password-state-(type=password)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"date\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#date-state-(type=date)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"datetime\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#date-and-time-state-(type=datetime)",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"datetime-local\"]",
+    "specs": []
+  },
+  {
+    "element": "input[type=\"month\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#month-state-(type=month)",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"week\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#week-state-(type=week)",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"time\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#time-state-(type=time)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"number\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#number-state-(type=number)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"range\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#range-state-(type=range)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"color\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#color-state-(type=color)",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"checkbox\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#checkbox-state-(type=checkbox)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"radio\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#radio-button-state-(type=radio)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"file\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#file-upload-state-(type=file)",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"submit\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#submit-button-state-(type=submit)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"image\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#image-button-state-(type=image)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"reset\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#reset-button-state-(type=reset)",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "input[type=\"button\"]",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#button-state-(type=button)",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "ins",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/edits.html#the-ins-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "isindex",
+    "link": "http://www.w3.org/TR/html401/interact/forms.html#edef-ISINDEX",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "kbd",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-kbd-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "keygen",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-keygen-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "label",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/forms.html#the-label-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "legend",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-legend-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "li",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-li-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "link",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-link-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "main",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-main-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "map",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-map-element.html#the-map-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "mark",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-mark-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "menu",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-menu-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "5.1"
+    ]
+  },
+  {
+    "element": "menuitem",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-menuitem-element",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "meta",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-meta-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "meter",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-meter-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "nav",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-nav-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "nextid",
+    "link": "http://www.w3.org/MarkUp/html-spec/html-spec_5.html#SEC5.2.6",
+    "specs": [
+      "2.0"
+    ]
+  },
+  {
+    "element": "noframes",
+    "link": "http://www.w3.org/TR/html401/present/frames.html#edef-NOFRAMES",
+    "specs": [
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "noscript",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-noscript-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "object",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-object-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "ol",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-ol-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "optgroup",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-optgroup-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "option",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-option-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "output",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-output-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "p",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-p-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "param",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-iframe-element.html#the-param-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "picture",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/embedded-content.html#the-picture-element",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "plaintext",
+    "link": "http://www.w3.org/TR/REC-html32#plaintext",
+    "specs": [
+      "2.0",
+      "3.2"
+    ]
+  },
+  {
+    "element": "pre",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-pre-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "progress",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-progress-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "q",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-q-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "rb",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rb-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "rbc",
+    "link": "http://www.w3.org/TR/ruby/#rbc",
+    "specs": []
+  },
+  {
+    "element": "rp",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rp-element",
+    "specs": [
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "rt",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-rt-element",
+    "specs": [
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "rtc",
+    "link": "http://www.w3.org/TR/ruby/#rtc",
+    "specs": []
+  },
+  {
+    "element": "ruby",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-ruby-element",
+    "specs": [
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "s",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-S",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "samp",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-samp-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "script",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-script-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "section",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/sections.html#the-section-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "select",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-select-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "small",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-small-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "source",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-source-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "span",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-span-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "strike",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-STRIKE",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0"
+    ]
+  },
+  {
+    "element": "strong",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-strong-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "style",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-style-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "sub",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-sub-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "summary",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/interactive-elements.html#the-summary-element",
+    "specs": [
+      "5.1"
+    ]
+  },
+  {
+    "element": "sup",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-sup-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "table",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-table-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "tbody",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tbody-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "td",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-td-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "template",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/scripting-1.html#the-template-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "textarea",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-button-element.html#the-textarea-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "tfoot",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tfoot-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "th",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-th-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "thead",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-thead-element",
+    "specs": [
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "time",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-time-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "title",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/semantics.html#the-title-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "tr",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/tabular-data.html#the-tr-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "track",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-track-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "tt",
+    "link": "http://www.w3.org/TR/html401/present/graphics.html#edef-TT",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1"
+    ]
+  },
+  {
+    "element": "u",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-u-element",
+    "specs": [
+      "3.2",
+      "4.01",
+      "X1.0",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "ul",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-ul-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "var",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-var-element",
+    "specs": [
+      "2.0",
+      "3.2",
+      "4.01",
+      "X1.0",
+      "X1.1",
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "video",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/the-video-element.html#the-video-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "wbr",
+    "link": "http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-wbr-element",
+    "specs": [
+      "5",
+      "5.1"
+    ]
+  },
+  {
+    "element": "xmp",
+    "link": "http://www.w3.org/TR/REC-html32#xmp",
+    "specs": [
+      "2.0",
+      "3.2"
+    ]
+  }
+]
