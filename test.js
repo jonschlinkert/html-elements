@@ -8,14 +8,13 @@
 'use strict';
 
 var assert = require('assert');
-var should = require('should');
 var elements = require('./');
 
-it('should return an array of elements', function () {
-  elements()[0].should.equal('a');
-  elements()[0].should.equal('a');
+it('should return an array of elements', function() {
+  assert.equal(elements()[0], 'a');
+  assert.equal(elements()[0], 'a');
 });
 
-it('should filter elements', function () {
-  elements('u*').should.eql(['u', 'ul']);
+it('should filter elements', function() {
+  assert.deepEqual(elements('u*'), ['u', 'ul']);
 });
