@@ -2,19 +2,19 @@
 
 var fs = require('fs');
 var path = require('path');
-var html = tryRequire(__dirname, 'node_modules/elements-of-html/elements.json');
+var clone = require('gh-clone');
+var write = require('write-json');
+var del = require('delete');
 
-function writeJson(fp, obj) {
-  var json = JSON.stringify(obj, null, 2);
-  fs.writeFileSync(fp, json);
-}
+del(['vendor', 'elements.json'])
+  .then(function() {
+    return clone('w3c/elements-of-html', {dest: 'vendor'})
+      .then(function() {
+        fs.renameSync('vendor/elements.json', 'elements.json');
+      })
+      .then(function() {
+        console.log('finished');
+      })
+      .catch(console.error);
+  });
 
-function tryRequire(fp) {
-  fp = path.resolve.apply(path, arguments);
-  try {
-    return require(fp);
-  } catch(err) {}
-  return fp;
-}
-
-writeJson('elements.json', html);

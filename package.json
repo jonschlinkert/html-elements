@@ -3,36 +3,65 @@
   "description": "Array of all standard HTML and HTML5 elements.",
   "version": "0.1.0",
   "homepage": "https://github.com/jonschlinkert/html-elements",
-  "author": {
-    "name": "Jon Schlinkert",
-    "url": "https://github.com/jonschlinkert"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jonschlinkert/html-elements.git"
-  },
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/html-elements",
   "bugs": {
     "url": "https://github.com/jonschlinkert/html-elements/issues"
   },
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/jonschlinkert/html-elements/blob/master/LICENSE-MIT"
-  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "engines": {
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "mocha -R spec"
+    "test": "mocha",
+    "update": "node support.js"
   },
   "dependencies": {
-    "elements-of-html": "git://github.com/w3c/elements-of-html",
-    "micromatch": "^1.0.1",
-    "resolve": "^1.0.0"
+    "micromatch": "^3.1.4"
   },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "delete": "^1.1.0",
+    "gh-clone": "^1.0.0",
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^4.0.1",
+    "write-json": "^2.0.0"
   },
-  "keywords": []
+  "keywords": [
+    "elements",
+    "html"
+  ],
+  "lintDeps": {
+    "devDependencies": {
+      "files": {
+        "patterns": [
+          "support.js"
+        ]
+      }
+    }
+  },
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "breakdance",
+        "html-toc",
+        "html-tag",
+        "remarkable"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    }
+  }
 }
