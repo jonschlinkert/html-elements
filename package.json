@@ -1,7 +1,7 @@
 {
   "name": "html-elements",
   "description": "Array of all standard HTML and HTML5 elements.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/html-elements",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/html-elements",
